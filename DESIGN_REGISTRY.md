@@ -1,0 +1,22 @@
+# DESIGN REGISTRY • ELASTANE PAIR
+
+- **Domain:** `elastanepair` (`elastanepair.com`)
+- **Niche/Category:** `Socks` (Technical Graduated Compression & Biomechanical Hosiery)
+- **Theme Archetype:** #8 • Swiss Minimalist Technical & Carbon Cyan / Kinetic Lime (`swiss_technical_kinetic`)
+- **Hero Composition:** Staggered Tension Grid with Polyurethane Segmental Block Diagram & Compression Gauge
+- **Color Palette:**
+  - Base Background: `#0a0e14` (Carbon Graphite / Tech Obsidian)
+  - Surface Card: `#121824` (Deep Kinetic Slate Surface)
+  - Card / Raised: `#1c2436` (Segmental Polyurethane Card)
+  - Primary Accent: `#00f0ff` (High-Voltage Cyan / Electric Elastane Blue)
+  - Secondary Accent: `#a3e635` (Kinetic Volt Lime / Tension Chartreuse)
+  - Text Primary: `#f8fafc` (Alpine Synthetic White)
+  - Text Secondary: `#94a3b8` (Atmospheric Filament Gray)
+  - Border Subtle: `#28334a` (Circular Knit Needle Grid Line)
+- **Typography:**
+  - Headings: `Epilogue` (Google Fonts via `<link>`)
+  - Body: `Plus Jakarta Sans` (Google Fonts via `<link>`)
+  - Monospace Telemetry: `JetBrains Mono` (Google Fonts via `<link>`)
+- **Architecture:** 100% Static HTML, Zero PHP, sticky blur header, synced drawer, 3 long-form treatises (>1,200 words), calibrated 5-6 line policies.
+- **Institutional Contact:** 181 Mercer Street, New York, NY 10012, United States | +1-888-777-5845 | Tag: `G-0LY0HY7L01`.
+- **Google Ads Compliance:** Certified 100% clean of forbidden finance, real estate, biochemicals, cosmetics, and alcohol content.
